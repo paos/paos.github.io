@@ -1,5 +1,3 @@
-# paos.github.io
-
 ## Announce Trades Button
 Announces a trade in the browser
 
