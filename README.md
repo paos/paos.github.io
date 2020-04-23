@@ -1,4 +1,2 @@
-## Announce Trades Button
-Announces a trade in the browser
-
-Navigate to bookmarks link to enable trade announcements: https://paos.github.io/bookmarklets/index.html
+## Bookmarklets
+Hi, navigate to bookmarks link to setup trade announcements: [index.html](https://paos.github.io/bookmarklets/index.html)
